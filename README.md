@@ -1,29 +1,30 @@
-# C Dilinde Algoritmalar - Sorular ve Çözümler
+# 🔷 Algorithms in C - Questions and Solutions
 
-**C Dilinde Algoritmalar ve Çözümleri** reposu, temel algoritma ve programlama bileşenlerini içeren sorularının çözümlerini içeren bir kaynaktır. Her bir soru, problem tanımından başlayarak adım adım çözümle birlikte örnek ekran çıktılarıyla desteklenmiştir.
+The **Algorithms and Solutions in C** repository is a resource containing solutions to questions covering fundamental algorithms and programming components. Each question is supported by a step-by-step solution starting from the problem definition, along with sample screen outputs.
 
-## 🚀 Proje Özeti
+## 🚀 Project Summary
 
-Bu repo, C dilinde çeşitli algoritma problemlerini çözmek ve pratik yapmak amacıyla oluşturulmuş bir koleksiyondur. Projede, her sorunun çözümü ve ekran çıktıları kullanıcıya net bir anlayış kazandırmaktadır. Temel amaç, algoritma çözme yeteneğini geliştirmek ve C dilindeki pratik bilgiyi öğreticiliği yüksek sorular ile artırmaktır.
+This repository is a collection created for solving and practicing various algorithm problems in the C language. In the project, the solution and screen outputs for each question provide the user with a clear understanding. The main goal is to improve algorithm-solving skills and increase practical knowledge in C with highly instructive questions.
 
-## 📋 İçerik
+## 📋 Content
 
-Bu repo, aşağıdaki başlıklarda çözümler içermektedir:
+This repository includes solutions under the following headings:
 
-- **Algoritmalar:** Sıralama algoritmaları, arama algoritmaları, temel veri tipleri ve programlama bileşenleri ve daha fazlası
-- **Ekran Çıktıları:** Çözümün doğru çalıştığını doğrulamak için örnek ekran çıktıları sağlanmıştır ve soruların çözümleri için örnek olması sağlanmıştır
+- `🎯` **Algorithms:** Sorting algorithms, searching algorithms, basic data types and programming components, and more.
+- `🎯` **Screen Outputs:** Sample screen outputs are provided to verify that the solution works correctly and to serve as examples for the solutions to the questions.
 
-### Her soru için:
+### For each question:
 
-- **Soru Dosyası:** Sorunun tanımı ve açıklaması.
-- **Cevap Dosyası:** Sorunun C dilinde çözümü.
-- **Ekran Çıktıları:** Çözümün çalışma anında alınan örnek çıktılar.
+- ✅ **Question File:** The definition and description of the question.
+- ✅ **Answer File:** The solution to the question in C.
+- ✅ **Screen Outputs:** Sample outputs taken during the execution of the solution.
 
-## 🧑‍💻 Kullanım
+## 🧑‍💻 Usage
 
-Proje, C dilinde algoritmalar üzerine odaklanmıştır ve her soru için çözüm adımları sağlanmaktadır. Soruları ve çözümleri görmek için dosyaları görüntüleyebilir ve ekran çıktılarından faydalanabilirsiniz.
+The project focuses on algorithms in C, and solution steps are provided for each question. You can view the files to see the questions and solutions and benefit from the screen outputs.
 
-Projeyi bilgisayarınıza klonlamak için aşağıdaki komutu kullanabilirsiniz:
+You can use the following command to clone the project to your computer:
 
 ```bash
 git clone https://github.com/bahadirverir/C-Dilinde-Algoritmalar-.git
+```
