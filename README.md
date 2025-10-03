@@ -1,4 +1,4 @@
-# C Dilinde Algoritmalar - Sorular ve Çözümler
+# 🔷 C Dilinde Algoritmalar - Sorular ve Çözümler
 
 **C Dilinde Algoritmalar ve Çözümleri** reposu, temel algoritma ve programlama bileşenlerini içeren sorularının çözümlerini içeren bir kaynaktır. Her bir soru, problem tanımından başlayarak adım adım çözümle birlikte örnek ekran çıktılarıyla desteklenmiştir.
 
@@ -10,14 +10,14 @@ Bu repo, C dilinde çeşitli algoritma problemlerini çözmek ve pratik yapmak a
 
 Bu repo, aşağıdaki başlıklarda çözümler içermektedir:
 
-- **Algoritmalar:** Sıralama algoritmaları, arama algoritmaları, temel veri tipleri ve programlama bileşenleri ve daha fazlası
-- **Ekran Çıktıları:** Çözümün doğru çalıştığını doğrulamak için örnek ekran çıktıları sağlanmıştır ve soruların çözümleri için örnek olması sağlanmıştır
+- `🎯` **Algoritmalar:** Sıralama algoritmaları, arama algoritmaları, temel veri tipleri ve programlama bileşenleri ve daha fazlası
+- `🎯` **Ekran Çıktıları:** Çözümün doğru çalıştığını doğrulamak için örnek ekran çıktıları sağlanmıştır ve soruların çözümleri için örnek olması sağlanmıştır
 
 ### Her soru için:
 
-- **Soru Dosyası:** Sorunun tanımı ve açıklaması.
-- **Cevap Dosyası:** Sorunun C dilinde çözümü.
-- **Ekran Çıktıları:** Çözümün çalışma anında alınan örnek çıktılar.
+- ✅ **Soru Dosyası:** Sorunun tanımı ve açıklaması.
+- ✅ **Cevap Dosyası:** Sorunun C dilinde çözümü.
+- ✅ **Ekran Çıktıları:** Çözümün çalışma anında alınan örnek çıktılar.
 
 ## 🧑‍💻 Kullanım
 
