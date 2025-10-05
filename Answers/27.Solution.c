@@ -20,7 +20,7 @@ int main()
         }
         buffer[index++] = '\n'; 
     }
-    buffer[index] = '\0'; // Null-terminate the string
+    buffer[index] = '\0'; 
 
     printf("%s", buffer);
 }

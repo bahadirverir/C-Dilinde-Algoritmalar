@@ -26,6 +26,6 @@ int main()
     printf("printing one-dimensional array:\n");
     for(i=0;i<6;i++)
     {
-        printf("%d\n",arr[i]);
+        printf("arr[%d] = %d\n",i,arr[i]);
     }
 }

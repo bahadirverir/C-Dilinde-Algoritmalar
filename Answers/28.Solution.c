@@ -17,7 +17,6 @@ int main()
         {
             if(arr[i]==arr[j])
             {
-                // To avoid printing the same duplicate multiple times
                 int k;
                 int is_already_printed = 0;
                 for (k = 0; k < i; k++) {

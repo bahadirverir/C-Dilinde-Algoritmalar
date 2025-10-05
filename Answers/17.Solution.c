@@ -17,9 +17,8 @@ int main()
     {
         for (int j = 2; j >= 0; j--) 
         {
-            printf("%d ", matrix[i][j]);
+            printf("%d\n", matrix[i][j]);
         }
-        printf("\n");
     }
     return 0;
 }
